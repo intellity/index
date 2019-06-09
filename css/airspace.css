@@ -15,8 +15,7 @@
 --*/
 @media(max-width:500px) {
 #slider {
-  background: url("../img/slider-bg-small.jpg") no-repeat;
-  background-position: center center;
+  background: url("../img/slider-bg-small.jpg") no-repeat !important;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -24,7 +23,7 @@
   position: relative;
 }
 #feature {
-  background: url("../img/featue-bg-small.jpg");
+  background: url("../img/featue-bg-small.jpg") no-repeat !important;
   background-position: center center;
   background-position: 50% 94px;
   width: 100%;
