@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: Intellity
 subtitle: "A free HTML5 agency template"
-url: "http://intellity.github.io" # the base hostname & protocol for your site
+url: "http://intellity.ca" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
 cover: "/assets/cover.png"
